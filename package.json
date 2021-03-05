@@ -19,6 +19,8 @@
   "homepage": "https://github.com/jblong27/online-order-page#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "mysql": "^2.18.1"
+    "mysql": "^2.18.1",
+    "node-red-contrib-cip-ethernet-ip": "^1.1.2",
+    "node-red-node-mysql": "^0.1.1"
   }
 }
